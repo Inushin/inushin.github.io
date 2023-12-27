@@ -4,7 +4,7 @@ import {
   NavMenu,
   NavMenuItem,
   Section,
-} from 'astro-boilerplate-components';
+} from "astro-boilerplate-components";
 
 const Navbar = () => (
   <Section>
@@ -28,14 +28,13 @@ const Navbar = () => (
               <path d="M4 20h14"></path>
             </svg>
           }
-          name="Ixartz's Blog"
+          name="Inushin's Blog"
         />
       </a>
 
       <NavMenu>
         <NavMenuItem href="/posts/">Blogs</NavMenuItem>
-        <NavMenuItem href="/">GitHub</NavMenuItem>
-        <NavMenuItem href="/">Twitter</NavMenuItem>
+        <NavMenuItem href="https://github.com/Inushin">GitHub</NavMenuItem>
       </NavMenu>
     </NavbarTwoColumns>
   </Section>
