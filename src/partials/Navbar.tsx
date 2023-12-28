@@ -28,12 +28,12 @@ const Navbar = () => (
               <path d="M4 20h14"></path>
             </svg>
           }
-          name="Inushin's Blog"
+          name="Blog de Inushin"
         />
       </a>
 
       <NavMenu>
-        <NavMenuItem href="/posts/">Blogs</NavMenuItem>
+        <NavMenuItem href="/">Posts</NavMenuItem>
         <NavMenuItem href="https://github.com/Inushin">GitHub</NavMenuItem>
       </NavMenu>
     </NavbarTwoColumns>
