@@ -1,10 +1,10 @@
 ---
-layout: '@/templates/BasePost.astro'
-title: Hello Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
-pubDate: 2020-01-01T00:00:00Z
-imgSrc: '/assets/images/image-post6.jpeg'
-imgAlt: 'Image post 6'
+layout: "@/templates/BasePost.astro"
+title: Primer post de prueba
+description: Actualización del lorem para el primer post del blog en desarrollo. Editado para ir recorriendo toda la aplicación modularmente.
+pubDate: 2024-01-06T00:00:00Z
+imgSrc: "/assets/images/image-post6.jpeg"
+imgAlt: "Imagen de prueba"
 ---
 
-Full typography example at [this page](../sixth-post/).
+Modificación del lorem para el primer post del blog en desarrollo. Editado para ir recorriendo toda la aplicación modularmente.
