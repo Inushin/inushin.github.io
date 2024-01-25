@@ -76,6 +76,12 @@ const Hero = () => (
               alt="Icono LinkedIn"
             />
           </a>
+          <a href="https://github.com/Inushin">
+            <HeroSocial
+              src="/assets/images/github-icon.png"
+              alt="Icono Github"
+            />
+          </a>
         </>
       }
     />
