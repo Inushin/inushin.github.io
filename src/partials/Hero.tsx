@@ -22,7 +22,7 @@ const Hero = () => (
           >
             Aitor Sobera Ortiz de Zárate
           </a>
-          , un desarrollador FullStack de 28 años que vive en España.
+          , un desarrollador FullStack de 29 años que vive en España.
           Actualmente trabajo con{" "}
           <a
             className="text-cyan-400 hover:underline"
